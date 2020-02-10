@@ -1,0 +1,1168 @@
+*{margin: 0; padding: 0;}
+
+i.fas.fa-camera-retro {
+    margin-right: 12px;
+}
+
+.tong {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.nutsothich i.fas.fa-angle-right {
+    transform: translateX(139px);
+    opacity: 0;
+}
+
+.chonphamchat i.fas.fa-angle-right {
+    transform: translateX(126px);
+    opacity: 0;
+}
+
+.chonkinhnghiem i.fas.fa-angle-right {
+    transform: translateX(113px);
+    opacity: 0;
+}
+
+.chonmuctieu i.fas.fa-angle-right {
+    transform: translateX(54px);
+    opacity: 0;
+}
+.tong {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.nuthocvan i.fas.fa-angle-right {
+    transform: translateX(133px);
+    opacity: 0;
+}
+
+.nutthongtinlienhe i.fas.fa-angle-right {transform: translateX(77px); opacity: 0;}
+
+.tieudest {
+    font-size: 40px;
+    color: #70B4DD;
+}
+
+.sothich {
+    position: absolute;
+    top: 2%;
+    left: 11%;
+    opacity: 0;
+}
+
+.tieudest:after {content: "";display: block;width: 100%;height: 2px;background: blue;margin-top: 10px;}
+
+.nutsothich button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 145px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+i.fas.fa-award {
+    padding-right: 10px;
+}
+
+.tieudepc {
+    font-size: 45px;
+    color: #70B4DD;
+}
+
+.tieudepc:after {content: "";display: block;width: 100%;height: 2px;background: blue;margin-top: 10px;}
+
+.phamchat {
+    position: absolute;
+    top: 1%;
+    left: 10%;
+    opacity: 0;
+}
+
+i.fas.fa-briefcase {
+    padding-right: 10px;
+}
+
+.tieudekn h4 {margin-top: 16px;}
+
+.tieudekn {
+    font-size: 40px;
+    color: #70B4DD;
+}
+
+.tieudekn:after {content: "";width: 100%;height: 2px;background: blue;display: block;}
+
+.kinhnghiem {position: absolute;top: 3%;left: 10%;opacity: 0;}
+
+.kinhnghiem h4 {
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+i.fas.fa-business-time {
+    padding-right: 10px;
+}
+
+i.fas.fa-graduation-cap {
+    padding-right: 10px;
+}
+
+i.fas.fa-user-edit {
+    padding-right: 10px;
+}
+
+.hocvan {
+    opacity: 0;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+.hocvan_hien{
+	opacity: 1;
+}
+.sothich button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 151px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.sothich button:hover {
+    background: red;
+}
+
+.nutphamchat button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 132px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.nutphamchat button:hover {
+    background: red;
+}
+
+.nutkinhnghiem button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 120px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.nutkinhnghiem button:hover {
+    background: red;
+}
+
+.nutmuctieunghenghiep button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 63px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.nutmuctieunghenghiep button:hover {
+    background: red;
+}
+
+.nuthocvan button {
+    background: #0072ffdb;
+    font-size: 25px;
+    padding: 30px 145px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.nuthocvan button:hover {
+    background: red;
+}
+
+.nutthongtinlienhe button {background: #0072ffdb;font-size: 25px;padding: 30px 91px;text-align: center;color: white;cursor: pointer;}
+
+.nutthongtinlienhe button:hover {
+    background: red;
+}
+
+.leftmid {
+} 
+
+
+
+p {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.muctieu {
+    margin-left: 100px;
+    padding-bottom: 50px;
+    transform: translateY(-77%);
+    opacity: 0;
+}
+.muctieu_hien{
+	opacity: 1;
+}
+.left h4{
+	color: white;
+	font-size: 15px;
+}
+
+.tieudemt h2 {color: #70B4DD;}
+
+.tieudemt:after {content: "";width: 98%;height: 2px;background: blue;display: block;margin-top: 20px;} 
+
+.thoigian {
+    margin: 10px 0px;
+}
+
+.chuyennganh {
+    margin: 10px 0px;
+}
+
+.truong {
+    margin: 10px 0px;
+ 
+}
+
+.diachi {
+    margin: 15px 0px;
+}
+
+.email {
+    margin: 15px 0px;
+}
+
+.ngaysinh {
+    margin: 15px 0px;
+}
+
+.phone {
+    margin: 15px 0px;
+}
+
+.gioitinh {margin: 15px 0px;}
+
+i.fas.fa-user {
+    color: #1887FB;
+    margin-right: 15px;
+}
+
+i.fas.fa-user {} 
+
+
+.tieudehv {
+    color: #5BA9D8;
+}
+
+.tieudehv:after {content: "";width: 100%;height: 2px;background: blue;display: block;margin-top: 8px;} 
+
+
+.between {
+    padding-top: 35px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: 600px;
+}
+
+
+i.fas.fa-map-marker-alt {
+    color: #1887FB;
+    margin-right: 15px;
+}
+
+i.far.fa-envelope {
+    color: #1887FB;
+    margin-right: 15px;
+}
+
+i.fas.fa-phone-square-alt {
+    color: #1887FB;
+    margin-right: 15px;
+}
+
+.ngaysinh h4 {}
+
+i.fas.fa-calendar-alt {
+    color: #1887FB;
+    margin-right: 15px;
+}
+
+.tieude h2 {
+    color: #5BA9D8;
+
+}
+.tieude{
+	margin-bottom: 20px;
+}
+.ngaysinh h2{
+	float: left;
+}
+
+.tieude:after {content: "";width: 71%;height: 2px;background: blue;display: block;margin-top: 10px;}
+
+h4 {} 
+
+.left h2 {
+    color: white;
+    font-size: 30px;
+}
+
+.left {text-align: center;transform: translateY(100px);margin-right: 25%;}
+
+.right {
+    float: right;
+    margin-right: 50px;
+    transform: translateY(-25%);
+    border: 5px solid #2196F3;
+}
+
+.top {
+    width: 100%;
+    height: 230px;
+    background: #3C83C5;
+} 
+
+
+.tieudehv{
+	margin-bottom: 20px;
+}
+.lienhe {
+    margin-left: 100px;
+	
+	
+}
+.lienhe_hien{
+	opacity: 1;
+}
+
+.truong h4{
+	font-weight: bold;
+}
+
+
+.giua{background: #ffdf0061;position: absolute !important;top: 35% !important;left: 30%;z-index: 3;width: 70% !important;height: 93%;}
+
+.active {
+    background: #ff8100 !important;
+}
+.lienhe_an{
+	opacity: 0;
+}
+.lienhe_hien{
+	opacity: 1;
+}
+.kinhnghiem_hien{
+	opacity: 1;
+}
+.phamchat_hien{
+	opacity: 1;
+}
+.sothich_hien{
+	opacity: 1;
+}
+.hienright {
+    opacity: 1 !important;
+}
+.anright{
+	opacity: 0 !important;
+}
+@media only screen
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 2){
+	*{}
+
+.tong {
+}
+
+.tong {
+    overflow-x: hidden;
+    overflow-y: hidden !important;
+}
+
+.nutphamchat button {
+}
+
+i.fas.fa-angle-right {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+
+i.fas.fa-angle-right.rightsothich {
+    opacity: 0 !important;
+    visibility: hidden;
+    display: none;
+}
+
+.sothich p {
+    font-size: 16px;
+}
+
+.tieudest:after {content: "";width: 100%;height: 2px;background: blue;display: block;}
+
+.sothich {
+    margin-left: -16px;
+    transform: translateY(21px);
+}
+
+.tieudest {
+    font-size: 20px;
+}
+
+.kinhnghiem {
+    margin-left: -20px;
+}
+
+.phamchat p {
+    font-size: 16px;
+}
+
+.tieudepc {
+    font-size: 20px;
+}
+
+.tieudepc:after {content: "";width: 40%;height: 2px;background: blue;display: block;}
+
+.phamchat {
+    margin-left: -15px;
+    transform: translateY(30px);
+}
+
+.kinhnghiem h4 {
+    font-size: 12px;
+}
+
+.tieudekn {font-size: 20px;}
+
+.tieudekn:after {content: "";width: 100%;height: 2px;background: blue;display: block;}
+
+.tieudemt:after {content: "";width: 59% !important;height: 2px;background: blue;display: block;}
+
+.tieudemt h2 {
+    font-size: 20px;
+}
+
+.muctieu {
+    transform: translateY(-205px);
+    margin-left: 91px;
+}
+
+.muctieu p {
+    font-size: 16px;
+}
+
+.thoigian h4 {
+    font-size: 16px;
+}
+
+.chuyennganh h4 {
+    font-size: 16px;
+}
+
+.truong h4 {
+    font-size: 16px;
+}
+
+.tieudehv:after {content: "";width: 60%;height: 2px;display: block;background: blue;}
+
+.tieudehv h2 {
+    font-size: 25px;
+}
+
+.hocvan.hocvan_hien {
+    transform: translateX(-19px);
+}
+
+.diachi h4 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.email h4 {
+    font-size: 16px;
+}
+
+.gioitinh h4 {
+    font-size: 16px;
+}
+
+.phone h4 {
+    font-size: 16px;
+}
+
+.ngaysinh h4 {
+    font-size: 16px;
+}
+	.tieude:after{
+
+	}
+
+.lienhe {
+    transform: translateX(0px);
+}
+
+.tieude:after {content: "";width: 50% !important;height: 2px;background: blue;display: block;}
+
+.tieude h2 {
+    font-size: 20px;
+}
+
+.tieude h2:after {width: 100%}
+
+.giua {
+    transform: translateX(-9px) !important;
+    margin-top: 0px !important;
+    margin-left: -4px !important;
+    width: 100% !important;
+}
+
+.between {
+}
+
+.leftmid {
+    position: relative;
+}
+
+.nutsothich button {
+    font-size: 12px !important;
+    padding: 2px 42px !important;
+    position: absolute !important;
+    top: 26px;
+    left: 242px !important;
+}
+
+.nutphamchat button {
+    font-size: 12px;
+    padding: 2px 28px !important;
+    position: absolute;
+    top: 26px;
+    left: 115px;
+}
+
+.nutkinhnghiem button {
+    font-size: 12px;
+    padding: 2px 26px !important;
+}
+
+.nutmuctieunghenghiep button {
+    padding: 2px 3px !important;
+    font-size: 12px;
+    position: absolute !important;
+    top: 0px;
+    left: 242px !important;
+}
+
+.nuthocvan button {
+    padding: 2px 35px !important;
+    font-size: 12px !important;
+    position: absolute;
+    top: 0px;
+    left: 115px;
+}
+
+.nutthongtinlienhe button {
+    padding: 2px 13px !important;
+    font-size: 12px !important;
+}
+
+.left {
+    margin-left: -65px  !important;
+}
+
+.right {
+}
+
+.left h4 {
+    font-size: 9px;
+}
+
+.left h2 {
+    font-size: 17px;
+}
+
+.top {
+    width: 100%;
+}
+}
+/*iphone5*/
+@media only screen
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+.right {
+}
+
+.tieudehv:after {
+    content: "";
+    width: 52% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieudehv:after {}
+
+i.fas.fa-angle-right {
+    display: none;
+}
+
+.tieudemt:after {
+    content: "";
+    width: 53% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieude:after {
+    content: "";
+    width: 45% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.hocvan {
+}
+
+.right {
+    margin-right: 41px !important;
+    margin-top: -28px;
+}
+
+.nutphamchat button {
+    padding: 2px 34px !important;
+}
+
+.nutsothich button {
+    margin-left: 23px;
+    padding: 2px 64px !important;
+    font-size: 12px !important;
+    width: 155px;
+    height: 26px;
+    font-size: 9px !important;
+}
+
+.nuthocvan button {
+    padding: 2px 42px !important;
+}
+
+.nutmuctieunghenghiep button {
+    margin-left: 24px;
+    width: 155px;
+    height: 25px;
+    font-size: 11px !important;
+}
+
+.tong .giua {
+    margin-top: -2px !important;
+    width: 103%;
+    margin-left: -17px !important;
+}
+
+.leftmid {
+    width: 100%;
+}
+
+.top {
+    width: 103%;
+} 
+}
+@media only screen
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+.phamchat {
+    transform: translateY(-4px);
+}
+
+.sothich {
+}
+
+.hocvan {
+    transform: translateX(0px) !important;
+}
+
+.giua {position: absolute !important;top: 284px !important;margin-left: -3px;}
+
+  	}
+  	@media only screen
+  and (min-device-width: 411px) 
+  and (max-device-width: 731px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+.tieudemt:after {
+    content: "";
+    width: 54% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieude:after {
+    content: "";
+    width: 46% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.phamchat {
+    transform: translateY(-1px);
+}
+
+.hocvan {transform: translateX(-22px)!important;}
+
+.hocvan {margin-left: 0px !important;}
+
+.hocvan {}
+
+.giua {
+    margin-left: -13px !important;
+}
+
+.nutphamchat button {
+    padding: 2px 37px !important;
+}
+
+.nuthocvan button {
+    padding: 2px 42px !important;
+}
+
+.nutsothich button {
+    margin-left: 14px;
+    padding: 2px 54px !important;
+}
+
+.nutmuctieunghenghiep button {
+    margin-left: 14px;
+    padding: 2px 15px !important;
+}
+  	
+  }
+  @media only screen
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+i.fas.fa-angle-right {
+    display: none;
+}
+
+.tong {
+    overflow-y: hidden;
+}
+
+.nutthongtinlienhe {}
+
+.tong {
+}
+
+.sothich {
+    margin-left: -22px;
+    transform: translateY(-10px);
+}
+
+.phamchat {
+    margin-left: -17px;
+}
+
+.kinhnghiem {
+    margin-left: -22px;
+}
+
+.hocvan {
+    margin-left: -18px;
+}
+
+.tieudest:after {
+    content: "";
+    width: 99%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.sothich {
+    margin-top: 15px;
+}
+
+.sothich p {
+    font-size: 12px;
+}
+
+.tieudest {
+    font-size: 20px;
+}
+
+.phamchat p {
+    font-size: 12px;
+}
+
+.phamchat {
+    margin-top: 17px;
+}
+
+.tieudepc:after {
+    content: "";
+    width: 53%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.tieudepc {
+    font-size: 20px;
+}
+
+.kinhnghiem h4 {
+    font-size: 12px;
+}
+
+.tieudekn:after {
+    content: "";
+    width: 92%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.tieudekn {
+    font-size: 16px;
+}
+
+.tieudemt:after {
+    content: "";
+    width: 63%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.tieudemt h2 {
+    font-size: 16px;
+}
+
+.muctieu p {
+    font-size: 12px;
+}
+
+.thoigian h4 {
+    font-size: 12px;
+}
+
+.chuyennganh h4 {
+    font-size: 12px;
+}
+
+.truong h4 {
+    font-size: 12px;
+}
+
+.tieudehv:after {
+    content: "";
+    width: 53%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.tieudehv h2 {
+    font-size: 16px;
+}
+
+.tieudehv {
+}
+
+.diachi h4 {
+    font-size: 12px;
+}
+
+.email h4 {
+    font-size: 12px;
+}
+
+.gioitinh h4 {
+    font-size: 12px;
+}
+
+.phone h4 {
+    font-size: 12px;
+}
+
+.ngaysinh h4 {
+    font-size: 12px;
+}
+
+.tieude:after {
+    content: "";
+    width: 53%;
+    height: 2px;
+    background: blue;
+    display: block;
+    margin-top: 10px;
+}
+
+.between {
+    margin-left: -76px;
+}
+
+.tieude h2 {
+    font-size: 16px;
+}
+
+.giua {
+    transform: translateX(-109px)!important;
+    margin-top: 58px;
+    width: 100% !important;
+}
+
+.nutmuctieunghenghiep {}
+
+.leftmid {
+    position: relative;
+    width: 100%;
+}
+
+.nutsothich button {
+    font-size: 12px;
+    position: absolute;
+    padding: 2px 47px;
+    top: 26px;
+    left: 217px;
+}
+
+.nutphamchat button {
+    font-size: 12px;
+    padding: 2px 16px;
+    position: absolute;
+    top: 26px;
+    left: 125px;
+}
+
+.nutkinhnghiem button {
+    font-size: 12px;
+    padding: 2px 26px;
+}
+
+.nutmuctieunghenghiep button {
+    font-size: 12px;
+    padding: 2px 8px;
+    position: absolute;
+    top: 0px;
+    left: 217px;
+}
+
+.nuthocvan button {
+    font-size: 12px;
+    padding: 2px 22px;
+    position: absolute;
+    top: 0px;
+    left: 125px;
+}
+
+.nutthongtinlienhe button {
+    font-size: 12px;
+    padding: 2px 13px;
+}
+
+.left {
+    margin-right: 225px;
+}
+
+.right {
+    margin-right: 130px !important;
+    margin-top: 21px !important;
+}
+
+.left {
+    margin-left: -65px;
+}
+
+.left h4 {
+    font-size: 9px;
+}
+
+.left h2 {
+    font-size: 16px;
+}
+
+.top {
+    width: 134%;
+}
+}
+ @media only screen
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+.left {
+    margin-left: -55px;
+}
+
+.left h4 {
+    font-size: 11px;
+}
+
+.left h2 {
+    font-size: 18px;
+}
+
+.right {
+    margin-right: 24px;
+    margin-top: 15px;
+}
+
+.top {
+    width: 130%;
+}
+  }
+ @media(max-width: 1280px){
+ 	*{}
+
+.leftmid {
+    position: absolute;
+    z-index: 5;
+}
+
+.tieudepc:after {
+    content: "";
+    width: 55%;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.muctieu {}
+
+.tieudemt:after {
+    content: "";
+    width: 53%;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieudehv:after {
+    content: "";
+    width: 50%;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieude::after {
+    content: "";
+    width: 44%;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tong {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.giua {
+    margin-left: 1px;
+    transform: translateY(-42px);
+    height: 77%;
+}
+ }
+ @media only screen
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	*{}
+
+.tieudemt:after {
+    content: "";
+    width: 39% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.tieude:after {
+    content: "";
+    width: 33% !important;
+    height: 2px;
+    background: blue;
+    display: block;
+}
+
+.giua {
+    margin-top: -42px !important;
+    transform: translateX(-228px) !important;
+}
+
+.nutsothich button {
+    position: absolute;
+    top: 43px;
+    left: 487px !important;
+    width: 280px;
+    height: 42px;
+}
+
+.nutphamchat button {
+    position: absolute;
+    top: 42px;
+    left: 256px;
+    padding: 10px 84px !important;
+}
+
+.nutkinhnghiem button {
+    padding: 10px 92px !important;
+}
+
+.nutthongtinlienhe button {padding: 10px 78px !important;}
+
+.nuthocvan button {
+    position: absolute;
+    left: 256px;
+    padding: 10px 91px !important;
+}
+
+button.chonkinhnghiem button {
+}
+
+.leftmid {
+    position: relative;
+}
+
+.nutmuctieunghenghiep button {
+    left: 487px !important;
+    width: 280px;
+    height: 42px;
+}
+
+.right {
+    margin-top: 23px;
+}
+
+.tong {}
+  }
