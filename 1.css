@@ -687,6 +687,14 @@ i.fas.fa-angle-right {
   and (-webkit-min-device-pixel-ratio: 2) {
   	*{}
 
+.hocvan {
+    margin-top: 20px !important;
+}
+
+.kinhnghiem {
+    margin-top: 25px !important;
+}
+
 .phamchat {
     transform: translateY(-4px);
 }
@@ -707,6 +715,14 @@ i.fas.fa-angle-right {
   and (-webkit-min-device-pixel-ratio: 2) {
   	*{}
 
+.kinhnghiem {
+    margin-top: 23px !important;
+}
+
+.lienhe {
+    margin-top: 10px;
+}
+
 .tieudemt:after {
     content: "";
     width: 54% !important;
@@ -717,7 +733,7 @@ i.fas.fa-angle-right {
 
 .tieude:after {
     content: "";
-    width: 46% !important;
+    width: 47% !important;
     height: 2px;
     background: blue;
     display: block;
@@ -762,6 +778,22 @@ i.fas.fa-angle-right {
   and (-webkit-min-device-pixel-ratio: 2) {
   	*{}
 
+.sothich {
+    transform: translateY(15px) !important;
+}
+
+.phamchat {
+    transform: translateY(15px);
+}
+
+.kinhnghiem {
+    margin-top: 15px;
+}
+
+.muctieu {
+    margin-top: 25px;
+}
+
 i.fas.fa-angle-right {
     display: none;
 }
@@ -790,6 +822,7 @@ i.fas.fa-angle-right {
 
 .hocvan {
     margin-left: -18px;
+    margin-top: 10px;
 }
 
 .tieudest:after {
@@ -853,7 +886,7 @@ i.fas.fa-angle-right {
 
 .tieudemt:after {
     content: "";
-    width: 63%;
+    width: 63% !important;
     height: 2px;
     background: blue;
     display: block;
@@ -882,7 +915,7 @@ i.fas.fa-angle-right {
 
 .tieudehv:after {
     content: "";
-    width: 53%;
+    width: 53% !important;
     height: 2px;
     background: blue;
     display: block;
@@ -918,7 +951,7 @@ i.fas.fa-angle-right {
 
 .tieude:after {
     content: "";
-    width: 53%;
+    width: 53% !important;
     height: 2px;
     background: blue;
     display: block;
