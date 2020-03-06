@@ -1,5 +1,9 @@
 *{margin: 0; padding: 0;}
 
+i.fas.fa-address-book {
+    margin-right: 11px;
+}
+
 i.fas.fa-camera-retro {
     margin-right: 12px;
 }
@@ -120,7 +124,7 @@ i.fas.fa-user-edit {
     left: 10%;
 }
 .hocvan_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .sothich button {
     background: #0072ffdb;
@@ -210,11 +214,11 @@ p {
     opacity: 0;
 }
 .muctieu_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .left h4{
-	color: white;
-	font-size: 15px;
+    color: white;
+    font-size: 15px;
 }
 
 .tieudemt h2 {color: #70B4DD;}
@@ -302,10 +306,10 @@ i.fas.fa-calendar-alt {
 
 }
 .tieude{
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 .ngaysinh h2{
-	float: left;
+    float: left;
 }
 
 .tieude:after {content: "";width: 71%;height: 2px;background: blue;display: block;margin-top: 10px;}
@@ -330,57 +334,58 @@ h4 {}
     width: 100%;
     height: 230px;
     background: #3C83C5;
+    z-index: 5;
 } 
 
 
 .tieudehv{
-	margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 .lienhe {
     margin-left: 100px;
-	
-	
+    
+    
 }
 .lienhe_hien{
-	opacity: 1;
+    opacity: 1;
 }
 
 .truong h4{
-	font-weight: bold;
+    font-weight: bold;
 }
 
 
-.giua{background: #ffdf0061;position: absolute !important;top: 35% !important;left: 30%;z-index: 3;width: 70% !important;height: 93%;}
+.giua{background: #ffdf0061;position: absolute !important;top: 35% !important;left: 30%;z-index: 0;width: 70% !important;height: 93%;overflow: hidden;}
 
 .active {
     background: #ff8100 !important;
 }
 .lienhe_an{
-	opacity: 0;
+    opacity: 0;
 }
 .lienhe_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .kinhnghiem_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .phamchat_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .sothich_hien{
-	opacity: 1;
+    opacity: 1;
 }
 .hienright {
     opacity: 1 !important;
 }
 .anright{
-	opacity: 0 !important;
+    opacity: 0 !important;
 }
 @media only screen
   and (min-device-width: 375px) 
   and (max-device-width: 812px)
   and (-webkit-min-device-pixel-ratio: 2){
-	*{}
+    *{}
 
 .tong {
 }
@@ -504,9 +509,9 @@ i.fas.fa-angle-right.rightsothich {
 .ngaysinh h4 {
     font-size: 16px;
 }
-	.tieude:after{
+    .tieude:after{
 
-	}
+    }
 
 .lienhe {
     transform: translateX(0px);
@@ -600,7 +605,7 @@ i.fas.fa-angle-right.rightsothich {
   and (min-device-width: 414px) 
   and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .right {
 }
@@ -685,7 +690,7 @@ i.fas.fa-angle-right {
   and (min-device-width: 375px) 
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .hocvan {
     margin-top: 20px !important;
@@ -708,12 +713,12 @@ i.fas.fa-angle-right {
 
 .giua {position: absolute !important;top: 284px !important;margin-left: -3px;}
 
-  	}
-  	@media only screen
+    }
+    @media only screen
   and (min-device-width: 411px) 
   and (max-device-width: 731px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .kinhnghiem {
     margin-top: 23px !important;
@@ -770,13 +775,13 @@ i.fas.fa-angle-right {
     margin-left: 14px;
     padding: 2px 15px !important;
 }
-  	
+    
   }
   @media only screen
   and (min-device-width: 360px) 
   and (max-device-width: 640px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .sothich {
     transform: translateY(15px) !important;
@@ -1050,7 +1055,7 @@ i.fas.fa-angle-right {
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .left {
     margin-left: -55px;
@@ -1074,7 +1079,7 @@ i.fas.fa-angle-right {
 }
   }
  @media(max-width: 1280px){
- 	*{}
+    *{}
 
 .leftmid {
     position: absolute;
@@ -1130,7 +1135,7 @@ i.fas.fa-angle-right {
   and (min-device-width: 768px) 
   and (max-device-width: 1024px)
   and (-webkit-min-device-pixel-ratio: 2) {
-  	*{}
+    *{}
 
 .tieudemt:after {
     content: "";
